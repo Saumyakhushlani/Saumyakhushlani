@@ -1,4 +1,5 @@
-## Hi there 👋
+#### Sup! I'm Saumya
+_I write something for machines and they understand!_
 
 <!--
 **Saumyakhushlani/Saumyakhushlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
